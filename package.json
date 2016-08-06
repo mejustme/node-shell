@@ -1,0 +1,19 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "node shell study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mejustme/node-shell.git"
+  },
+  "author": "mejustme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mejustme/node-shell/issues"
+  },
+  "homepage": "https://github.com/mejustme/node-shell#readme"
+}
